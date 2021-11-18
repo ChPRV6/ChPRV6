@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phani Rama Vaibhav 
 👨🏻‍🎓 I am a student of ECE department of NITW 2020-24
-- 👀 I’m interested in Back end Coding and web Development
+- 👀 I’m  a passionate Backend Coder and web Developer
 - 🌱 I’m currently learning DSA and would love to work on my core java and python at present
 - 💞️ I’m looking to collaborate on working to improve my DSA
 - 📫 How to reach me CP952045@student.nitw.ac.in
