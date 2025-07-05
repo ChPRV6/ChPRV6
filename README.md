@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Phani Rama Vaibhav 
-👨🏻‍🎓 I am a student of ECE department of NITW 2020-24
-- 👀 I’m  a passionate Backend Coder and web Developer
-- 🌱 I’m currently learning DSA and would love to work on my core java and python at present
-- 💞️ I’m looking to collaborate on working to improve my DSA
-- 📫 How to reach me CP952045@student.nitw.ac.in
+👨🏻‍🎓 I am a student of ECE department of NITW 2020-24 And IIIT Hyderabad Mtech in computer science and Engineering
+
+-You can check out details of me in here 
+-Do visit the site and find out : https://chprv6.github.io/Portofolio/
 
 <!---
 ChPRV6/ChPRV6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
